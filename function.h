@@ -1,0 +1,1 @@
+void calcValues(int arraySize, int *Array, int *Min, int *Max, float *Avg);
